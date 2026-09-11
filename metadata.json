@@ -1,0 +1,6 @@
+{
+  "name": "Tạo Mã QR từ Link",
+  "description": "Ứng dụng tạo mã QR chuyên nghiệp, nhanh chóng và tùy biến từ đường dẫn (link / URL).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
